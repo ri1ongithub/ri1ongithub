@@ -6,7 +6,7 @@
 - HTML/CSS/JS 🌐| 6 years
 - Node.js 🧵| 5 years
 - Java 🍵| 2 years
-- Minecraft Datapacks ⛏️| 1 years
+- Minecraft Datapacks ⛏️| 1 year
 
 # My Projects ⛏️
 - [RTranslate 💱](https://github.com/ri1ongithub/rtranslate)
