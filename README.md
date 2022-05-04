@@ -18,3 +18,5 @@
 - E-mail 📧: contact@rien.tk
 
 ### More info on [my website 🌐](https://rien.tk) (In french)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B6CIAB9)
